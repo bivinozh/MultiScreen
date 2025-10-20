@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--
+    Base Dimensions for sw800dp screens (1.0x scaling)
+    "The details are not the details. They make the design." - Charles Eames
+    
+    These are the reference dimensions for standard tablet screens.
+    All other screen sizes scale from these base values.
+    -->
     <dimen name="_0dp">0dp</dimen>
     <dimen name="_0sp">0sp</dimen>
     <dimen name="_0.5dp">0.5dp</dimen>

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Dimensions for sw1820dp screens (2.25x scaling) -->
+    <!--
+    Dimensions for sw1820dp screens (2.25x scaling)
+    "Design is thinking made visual." - Saul Bass
+    
+    Extra large display dimensions with 2.25x scaling from base values.
+    Designed for large desktop displays and ultra-wide screens.
+    -->
     <dimen name="_0dp">0dp</dimen>
     <dimen name="_0sp">0sp</dimen>
     <dimen name="_0.5dp">1.125dp</dimen>

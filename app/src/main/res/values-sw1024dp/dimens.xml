@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Dimensions for sw1024dp screens (1.25x scaling) -->
+    <!--
+    Dimensions for sw1024dp screens (1.25x scaling)
+    "Simplicity is the ultimate sophistication." - Leonardo da Vinci
+    
+    Medium tablet dimensions with 1.25x scaling from base values.
+    Perfect for 10-inch tablets and medium-sized displays.
+    -->
     <dimen name="_0dp">0dp</dimen>
     <dimen name="_0sp">0sp</dimen>
     <dimen name="_0.5dp">0.625dp</dimen>

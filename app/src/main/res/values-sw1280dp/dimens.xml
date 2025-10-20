@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Dimensions for sw1280dp screens (1.6x scaling) -->
+    <!--
+    Dimensions for sw1280dp screens (1.6x scaling)
+    "Good design is as little design as possible." - Dieter Rams
+    
+    Large tablet dimensions with 1.6x scaling from base values.
+    Optimized for 12-inch tablets and large displays.
+    -->
     <dimen name="_0dp">0dp</dimen>
     <dimen name="_0sp">0sp</dimen>
     <dimen name="_0.5dp">0.8dp</dimen>

@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--
+    Multi-Screen Dimension System
+    "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
+    
+    This dimension system provides consistent scaling across different screen sizes:
+    - Base values (sw800dp): 1.0x scaling - Reference dimensions
+    - sw1024dp: 1.25x scaling - Medium tablets
+    - sw1280dp: 1.6x scaling - Large tablets  
+    - sw1820dp: 2.25x scaling - Extra large displays
+    
+    Use these dimensions in your layouts for responsive design that adapts to any screen size.
+    -->
     <dimen name="_0dp">0dp</dimen>
     <dimen name="_0sp">0sp</dimen>
     <dimen name="_0.5dp">0.5dp</dimen>
