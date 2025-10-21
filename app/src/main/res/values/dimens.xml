@@ -5,10 +5,11 @@
     "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
     
     This dimension system provides consistent scaling across different screen sizes:
-    - Base values (sw800dp): 1.0x scaling - Reference dimensions
-    - sw1024dp: 1.25x scaling - Medium tablets
-    - sw1280dp: 1.6x scaling - Large tablets  
-    - sw1820dp: 2.25x scaling - Extra large displays
+    Reference width: 910dp
+    - Base values (sw800dp): 0.879x scaling (800/910) - Standard tablets
+    - sw1024dp: 1.125x scaling (1024/910) - Medium tablets
+    - sw1280dp: 1.407x scaling (1280/910) - Large tablets  
+    - sw1820dp: 2.0x scaling (1820/910) - Extra large displays
     
     Use these dimensions in your layouts for responsive design that adapts to any screen size.
     -->
